@@ -4,4 +4,8 @@ This code is a simple one which is self explanatory.
 We use the ip of the android device to access the camera through pc.
 
 Required App for mobile : DroidCam
+
 Required modules for python : cv2 , numpy
+
+
+**Please make sure that the consent of the user is taken**
